@@ -14,14 +14,9 @@ In this app, there are upcoming and recommended events. The website mis responsi
 
 - ### Recommended shows:
 There are only 8 recommended shows which will infinitely scroll horizontally. You can fetch the recommended events by calling the below API. The response also has img_url which should be used as the thumbnail image for the event.
-
+ 
 - ### Upcoming events:
 There are several upcoming events which scroll vertically as shown in the image. You can fetch the upcoming events by calling this API. 
-
-
-
-
-
 
 ## Installation
 
